@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RedViewController: UIViewController {
 
     @IBOutlet var redTabBar: UITabBarItem!
     override func viewDidLoad() {
