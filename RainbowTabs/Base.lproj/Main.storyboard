@@ -43,7 +43,7 @@
             </objects>
             <point key="canvasLocation" x="114" y="812"/>
         </scene>
-        <!--Item-->
+        <!--Yellow-->
         <scene sceneID="1NB-UB-Ssh">
             <objects>
                 <viewController id="cNl-ho-atv" sceneMemberID="viewController">
@@ -53,7 +53,7 @@
                         <viewLayoutGuide key="safeArea" id="TPb-JX-Yi1"/>
                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" image="y.square.fill" catalog="system" selectedImage="y.square" id="gJa-3X-JzF"/>
+                    <tabBarItem key="tabBarItem" title="Yellow" image="y.square.fill" catalog="system" selectedImage="y.square" id="gJa-3X-JzF"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="h5C-Qp-KYf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
